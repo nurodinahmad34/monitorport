@@ -32,7 +32,7 @@ pip3 install python-telegram-bot apscheduler
 
 # Download script monitorport.py
 echo -e "${YELLOW}[4/6] Mengunduh monitorport.py...${NC}"
-wget -O /root/monitorport.py https://raw.githubusercontent.com/username/repo/main/monitorport.py
+wget -O /root/monitorport.py https://raw.githubusercontent.com/nurodinahmad34/monitorport/refs/heads/main/monitorport.py
 
 # Minta konfigurasi
 echo -e "${YELLOW}[5/6] Konfigurasi bot Telegram${NC}"
